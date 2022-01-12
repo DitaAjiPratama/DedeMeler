@@ -14,6 +14,6 @@ Just running it from your terminal
     git clone https://github.com/DitaAjiPratama/DedeMeler.git
     sh DedeMeler/install.sh
 
-You also can make shell file from the code above or download shell file from releases and running it from your terminal
+You also can make shell file from the code above or [download shell file from releases](https://github.com/DitaAjiPratama/DedeMeler/releases) and running it from your terminal
 
     sh dedemeler.sh
