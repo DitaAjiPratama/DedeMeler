@@ -8,7 +8,13 @@ You can make your own too. This is just one of many sample to make your fav apps
 
 ## Usage
 
+Just running it from your terminal
+
     sudo apt-get install git
     git clone https://github.com/DitaAjiPratama/DedeMeler.git
     cd DedeMeler
     sh install.sh
+
+You also can make shell file from the code above or download shell file from releases and running it from your terminal
+
+    sh dedemeler.sh
