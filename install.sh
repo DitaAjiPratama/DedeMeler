@@ -1,0 +1,9 @@
+sh 1-package.sh
+sh 2-utilities.sh
+sh 3-programming.sh
+sh 4-documentation.sh
+sh 5-web.sh
+sh 6-communication.sh
+sh 7-media.sh
+sh 8-internet.sh
+sh 9-emulator.sh
