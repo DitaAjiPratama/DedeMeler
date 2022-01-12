@@ -12,8 +12,7 @@ Just running it from your terminal
 
     sudo apt-get install git
     git clone https://github.com/DitaAjiPratama/DedeMeler.git
-    cd DedeMeler
-    sh install.sh
+    sh DedeMeler/install.sh
 
 You also can make shell file from the code above or download shell file from releases and running it from your terminal
 
