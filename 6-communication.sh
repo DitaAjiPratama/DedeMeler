@@ -1,1 +1,1 @@
-flatpak install -y flathub org.telegram.desktop im.riot.Riot
+flatpak install -y flathub org.telegram.desktop
